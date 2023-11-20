@@ -1,2 +1,2 @@
 # multi-clouds
-A multi-cloud DevOps projetc
+A multi-cloud DevOps project
