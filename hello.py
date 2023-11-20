@@ -1,0 +1,1 @@
+print("Printing first line from AWS Cloud9")
