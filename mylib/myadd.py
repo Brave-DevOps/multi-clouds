@@ -1,4 +1,4 @@
 """ Add fucntion """
 
 def add(x,y):
-    return x+y
+    return int(x)+int(y)
