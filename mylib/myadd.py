@@ -1,4 +1,5 @@
 """ Add fucntion """
 
-def add(x,y):
-    return int(x)+int(y)
+
+def add(x, y):
+    return int(x) + int(y)
