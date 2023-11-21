@@ -11,7 +11,7 @@ test:
 	#python -m pytest --nbval notebook.ipynb
 
 lint:
-	pylint --disable=R,C gcli.py hello-click.py
+	pylint --disable=R,C hello.py mylib/*.py
 	
 
 all: install lint test
